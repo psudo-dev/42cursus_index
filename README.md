@@ -2,8 +2,7 @@
 
 ### About   <!-- omit in toc -->
 
-[42 | São Paulo](https://github.com/42sp)
-[École 42 | 42 School](https://github.com/42School)
+[42 | São Paulo](https://github.com/42sp) is a [École 42/42 School](https://github.com/42School) based in São Paulo, Brazil.
 
 - [42 Cursus | Index](#42-cursus--index)
   - [Level 01](#level-01)
