@@ -4,7 +4,7 @@
 
 [42 | São Paulo](https://github.com/42sp) is a [École 42/42 School](https://github.com/42School) based in São Paulo, Brazil.
 
-## [42 Cursus | Index](#42-cursus--index)
+## 42 Cursus | Index
   - ### Level 01
       - [Libft](https://github.com/psudo-dev/42cursus_01_libft)
       - [Get Next Line](https://github.com/psudo-dev/42cursus_02_get_next_line)
