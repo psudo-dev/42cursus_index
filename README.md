@@ -8,7 +8,7 @@
 
 - ### Level 01
 
-      - [Libft](https://github.com/psudo-dev/42cursus_01_libft)
+    - [Libft](https://github.com/psudo-dev/42cursus_01_libft)
     - [Get Next Line](https://github.com/psudo-dev/42cursus_02_get_next_line)
     - [Printf](https://github.com/psudo-dev/42cursus_03_printf)
     - [Born 2 Be Root](https://github.com/psudo-dev/42cursus_04_born2beroot)
